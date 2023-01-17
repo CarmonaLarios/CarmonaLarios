@@ -1,9 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m @CarmonaLarios<br>👀 I've interest in software engineering in general (specification, modeling, development)<br>🌱 I’m an eternal apprentice, always learning new technologies and new approachs to writting better code
+👋 Hi, I’m @CarmonaLarios<br>👀 I've interest in software engineering in general (specification, modeling, development)<br>🌱 I’m an eternal apprentice, always learning new technologies and new approachs to writting better code<br>
 
+I'm currently learning: <br> 
+
+![React Native](https://img.shields.io/badge/React%20Native-purple?style=for-the-badge&logo=react&logoColor=white)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmonalarios/) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmonalarios/)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
