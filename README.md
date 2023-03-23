@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @CarmonaLarios<br>👀 I've interest in software engineering in general (specification, modeling, development)<br>🌱 I’m an eternal apprentice, always learning new technologies and new approachs to writting better code<br>
+Hi, I’m @CarmonaLarios 👋<br>
+I'm a Full Stack Developer<br>
+I've interest in software engineering in general (specification, modeling, development)<br>
+I’m an eternal apprentice, always learning new technologies and new approachs to writting better code<br>
+
 
 I'm currently learning: <br> 
 
